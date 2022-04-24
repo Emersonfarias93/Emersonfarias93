@@ -14,6 +14,6 @@ Moro em João Pessoa, Estou sempre em busca de aprender sobre programação.
 
 🌎 Meus Idiomas 🌎
 
-  🇧🇷 Inglês: Técnico.
-  pt-br Português: Nativo.
-  🇲🇽 Espanhol: intermediário.
+* 🇧🇷 Inglês: Técnico
+* pt-br Português: Nativo
+* 🇲🇽 Espanhol: intermediário
