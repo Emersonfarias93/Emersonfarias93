@@ -7,7 +7,7 @@ Experiência com Oracle, PowerBi, Power Apps, Sql Server,Postgres, Pentaho Data 
 
 Moro em João Pessoa, Estou sempre em busca de aprender sobre programação.
 
-+ 💻 Atualmente estou trabalhando como analista de sistemas e consultor de sistemas no MV.
++ 💻 Atualmente estou trabalhando como analista de sistemas e consultor de sistemas na Unimed JP.
 + 🌱 Atualmente estou aprendendo inglês.
 + 🤔 Procuro pessoas construindo ótimos produtos no Brasil.
 + 📫 Como me contatar: e.fariassantos@gmail.com.
