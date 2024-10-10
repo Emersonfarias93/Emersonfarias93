@@ -1,7 +1,11 @@
-👋Perfil GitHub Emerson de Farias Santos👋
 
+### Olá, meu nome é Emerson de Farias Santos!
 
-#### Graduado em Redes de Computadores pela Faculdade Estácio e Analise e Desenvolvimento de Sistema, hoje atuo como Desenvolvedor back-end Java, Spring e Tech Lead na Unimed João Pessoa. Sou um apaixonado por tecnologia estou sempre buscando aprender mais sobre novas tecnologias, tenho experiência com modelagem, análise e migrações de dados, desenvolvimento PL/SQL, construção de ETLs, análise descritiva, projetos de implantações de soluções de BI, análise de negócios, desenvolvimento de sistemas java com spring e OracleApex. 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Emersonfarias93&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na Unimed JP <br/> Eu sou desenvolvedor BackEnd e Tech Lead na Unimed João Pessoa</p>
+
+#### Graduado em Redes de Computadores pela Faculdade Estácio e Analise e Desenvolvimento de Sistema. Sou um apaixonado por tecnologia estou sempre buscando aprender mais sobre novas tecnologias, tenho experiência com modelagem, análise e migrações de dados, desenvolvimento PL/SQL, construção de ETLs, análise descritiva, projetos de implantações de soluções de BI, análise de negócios, desenvolvimento de sistemas java com spring e OracleApex. 
 
 #### Atuação na área de saúde no setor de TI, proativo, de fácil aprendizado, analítico e com bom relacionamento em equipe.
 
@@ -11,7 +15,7 @@
 
 💻 Atualmente estou trabalhando como Desenvolvendor de sistemas e consultor de sistemas ERP MV.
 🌱 Atualmente estou aprendendo inglês.
-💻 Iniciando uma Startup na área de saúde.
+💻 Iniciando uma Startup na área de saúde prestando consultoria.
 🌎 Procuro pessoas construindo ótimos produtos no Brasil.
 📫 Como me contatar: emerson.santosdevcode@gmail.com.
 🌎 Meus Idiomas 🌎
