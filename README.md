@@ -5,18 +5,15 @@
 
 <p>Trabalhando na Unimed JP, sou desenvolvedor BackEnd e Tech Lead.</p>
 
-#### Graduado em Redes de Computadores pela Faculdade Estácio e Analise e Desenvolvimento de Sistema. Sou um apaixonado por tecnologia estou sempre buscando aprender mais sobre novas tecnologias, tenho experiência com modelagem, análise e migrações de dados, desenvolvimento PL/SQL, construção de ETLs, análise descritiva, projetos de implantações de soluções de BI, análise de negócios, desenvolvimento de sistemas java com spring e OracleApex. 
+#### Graduado em Redes de Computadores pela Faculdade Estácio e Analise e Desenvolvimento de Sistema pela UNIPE. Sou um apaixonado por tecnologia estou sempre buscando aprender mais sobre novas tecnologias, tenho experiência com modelagem, análise e migrações de dados, desenvolvimento PL/SQL, construção de ETLs, análise descritiva, projetos de implantações de soluções de BI, análise de negócios, desenvolvimento de sistemas java com spring, PHP e OracleApex. 
 
 #### Atuação na área de saúde no setor de TI, proativo, de fácil aprendizado, analítico e com bom relacionamento em equipe.
 
 ```
-
 #### Moro em João Pessoa, Estou sempre em busca de aprender sobre programação.
 
 💻 Atualmente estou trabalhando como Desenvolvendor de sistemas e consultor de sistemas ERP MV.
 🌱 Atualmente estou aprendendo inglês.
-💻 Iniciando uma Startup na área de saúde prestando consultoria.
-🌎 Procuro pessoas construindo ótimos produtos no Brasil.
 📫 Como me contatar: emerson.santosdevcode@gmail.com.
 🌎 Meus Idiomas 🌎
 
