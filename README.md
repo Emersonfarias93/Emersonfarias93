@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Emersonfarias93&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Unimed JP <br/> Eu sou desenvolvedor BackEnd e Tech Lead na Unimed João Pessoa</p>
+<p>Trabalhando na Unimed JP, sou desenvolvedor BackEnd e Tech Lead</p>
 
 #### Graduado em Redes de Computadores pela Faculdade Estácio e Analise e Desenvolvimento de Sistema. Sou um apaixonado por tecnologia estou sempre buscando aprender mais sobre novas tecnologias, tenho experiência com modelagem, análise e migrações de dados, desenvolvimento PL/SQL, construção de ETLs, análise descritiva, projetos de implantações de soluções de BI, análise de negócios, desenvolvimento de sistemas java com spring e OracleApex. 
 
